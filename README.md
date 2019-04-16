@@ -18,9 +18,12 @@ This is currently an early release that simply supports accurate representation
 of an amount of money.
 
 * Currency representation
+
   * `CurrencyUnit` with information about decimal places and rounding.
   * Currencies generated from Unicode CLDR
+
 * Money representation
+  
   * 
     `Money` for representing amounts with up to 15 digits of precision, for 
     currencies with 2 decimal places that allows for values of up to 10
