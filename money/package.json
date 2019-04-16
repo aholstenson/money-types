@@ -1,0 +1,5 @@
+{
+  "main": "../dist/cjs/money/index.js",
+  "module": "../dist/esm/money/index.js",
+  "types": "../dist/types/money/index.d.ts"
+}
