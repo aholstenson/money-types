@@ -29,8 +29,8 @@ of an amount of money.
     currencies with 2 decimal places that allows for values of up to 10
     trillion (10 000 000 000 000).
   *
-    __Planned__: `BigMoney` for representing amounts that need more than 15
-    digits of precision.
+    `BigMoney` for representing amounts that need more than 15 digits of
+    precision.
 
 ## Currencies
 
