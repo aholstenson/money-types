@@ -1,4 +1,4 @@
-import { CurrencyUnit } from './currency-unit';
+import { CurrencyUnit } from './CurrencyUnit';
 
 /**
  * Collection of several currencies. Used for things such as parsing and

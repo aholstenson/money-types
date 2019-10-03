@@ -1,4 +1,4 @@
-import { CurrencyUnit } from './currency-unit';
+import { CurrencyUnit } from './CurrencyUnit';
 
 // Auto-generated via generate-currency-units.js
 export const ADP: CurrencyUnit = { code: 'ADP', decimalDigits: 0, decimalRounding: 0, cash: { decimalDigits: 0, decimalRounding: 0 } };

@@ -1,2 +1,2 @@
-export * from './abstract-money';
-export * from './money';
+export * from './AbstractMoney';
+export * from './Money';

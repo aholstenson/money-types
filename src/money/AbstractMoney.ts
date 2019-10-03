@@ -1,5 +1,5 @@
 import { CurrencyUnit } from '../currency';
-import { MoneyOptions } from './money-options';
+import { MoneyOptions } from './MoneyOptions';
 
 import { RoundingMode } from 'numeric-types';
 import { AbstractDecimal, scale } from 'numeric-types/decimal';

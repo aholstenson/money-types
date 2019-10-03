@@ -1,4 +1,4 @@
-import { Money } from '../../src/money/money';
+import { Money } from '../../src/money/Money';
 import { EUR, SEK, CurrencyUnit } from '../../src/currency';
 
 import { Decimal, scale } from 'numeric-types/decimal';

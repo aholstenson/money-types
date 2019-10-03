@@ -1,7 +1,7 @@
 import { Decimal } from 'numeric-types/decimal';
-import { AbstractMoney } from './abstract-money';
+import { AbstractMoney } from './AbstractMoney';
 import { CurrencyUnit, Currencies } from '../currency';
-import { MoneyOptions } from './money-options';
+import { MoneyOptions } from './MoneyOptions';
 
 const PATTERN = /^([A-Z]{3}) ((?:[-\+]?\d+)(?:\.(\d*))?(?:e(?:[-\+]?\d+))?)$/;
 
