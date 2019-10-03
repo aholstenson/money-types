@@ -1,5 +1,6 @@
 {
   "main": "../dist/cjs/currency/index.js",
   "module": "../dist/esm/currency/index.js",
-  "types": "../dist/types/currency/index.d.ts"
+  "types": "../dist/types/currency/index.d.ts",
+  "sideEffects": false
 }
