@@ -25,16 +25,16 @@
     "numeric-types": "^0.2.0"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.11",
-    "@types/node": "^11.13.4",
-    "cldr-core": "^35.0.0",
-    "cldr-numbers-modern": "^35.0.0",
-    "coveralls": "^3.0.3",
-    "jest": "^24.7.1",
-    "jest-config": "^24.7.1",
-    "rimraf": "^2.6.3",
-    "ts-jest": "^24.0.2",
-    "tslint": "^5.15.0",
-    "typescript": "^3.4.3"
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.9",
+    "cldr-core": "^35.1.0",
+    "cldr-numbers-modern": "^35.1.0",
+    "coveralls": "^3.0.6",
+    "jest": "^24.9.0",
+    "jest-config": "^24.9.0",
+    "rimraf": "^3.0.0",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
   }
 }
