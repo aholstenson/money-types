@@ -24,6 +24,9 @@ export abstract class AbstractMoney<V extends AbstractDecimal<any>> {
 		this.currencyUnit = currencyUnit;
 	}
 
+	/**
+	 * Convert this amount of money into a string that can later be parsed.
+	 */
 	public toString(): string {
 		return this.currencyUnit.code + ' ' + this.amount.toString();
 	}
